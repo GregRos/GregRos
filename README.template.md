@@ -2,8 +2,6 @@
 
 I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself. This profile is a collection of these tools, assembled over 15 years or so. 
 
-# Done-ness
-
 **[📦 Packages][category,packages]**<br>
 Tested, and documented; you can use these yourself.
 
@@ -18,8 +16,6 @@ No longer relevant.
 
 **[🦠 Sample][category,sample]**<br>
 It's just some code that runs.
-
-# Tech Breakdown
 
 **Type**<br>
 [Library][type,library]  ✦  [Framework][type,framework]  ✦  [Tool][type,tool]  ✦  [Hotkeys][type,hotkeys]
