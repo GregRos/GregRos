@@ -4,19 +4,19 @@ I build things, and I love having the perfect tools to build things with. So if 
 
 This profile is a collection of these tools, assembled over 15 years or so. I like to divide the projects here into a few categories:
 
-**[📦 Packages][category,packages]**
+**[📦 Packages][category,packages]**<br>
 Tested, and documented; you can use these yourself.
 
-**[🤗 Personal][category,personal]**
+**[🤗 Personal][category,personal]**<br>
 Working but undocumented; mileage may vary.
 
-**[🧩 Incomplete][category,incomplete]**
+**[🧩 Incomplete][category,incomplete]**<br>
 Not quite there yet.
 
-**[🗑️ Obsolete][category,obsolete]**
+**[🗑️ Obsolete][category,obsolete]**<br>
 No longer relevant.
 
-**[🦠 Sample][category,sample]**
+**[🦠 Sample][category,sample]**<br>
 It's just some code that runs.
 
 Here is a breakdown by tech:

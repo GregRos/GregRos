@@ -4,19 +4,19 @@ I build things, and I love having the perfect tools to build things with. So if 
 
 This profile is a collection of these tools, assembled over 15 years or so. I like to divide the projects here into a few categories:
 
-**[📦 Packages](https://github.com/GregRos?tab=repositories&q=topic:package)**
+**[📦 Packages](https://github.com/GregRos?tab=repositories&q=topic:package)**<br>
 Tested, and documented; you can use these yourself.
 
-**[🤗 Personal](https://github.com/GregRos?tab=repositories&q=topic:personal)**
+**[🤗 Personal](https://github.com/GregRos?tab=repositories&q=topic:personal)**<br>
 Working but undocumented; mileage may vary.
 
-**[🧩 Incomplete](https://github.com/GregRos?tab=repositories&q=topic:incomplete+topic:package+-topic:obsolete)**
+**[🧩 Incomplete](https://github.com/GregRos?tab=repositories&q=topic:incomplete+topic:package+-topic:obsolete)**<br>
 Not quite there yet.
 
-**[🗑️ Obsolete](https://github.com/GregRos?tab=repositories&q=topic:obsolete)**
+**[🗑️ Obsolete](https://github.com/GregRos?tab=repositories&q=topic:obsolete)**<br>
 No longer relevant.
 
-**[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic:sample)**
+**[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic:sample)**<br>
 It's just some code that runs.
 
 Here is a breakdown by tech:
