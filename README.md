@@ -1,8 +1,8 @@
 Hi! I’m Greg.
 
-I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself.
+I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself. This profile is a collection of these tools, assembled over 15 years or so. 
 
-This profile is a collection of these tools, assembled over 15 years or so. I like to divide the projects here into a few categories:
+## Done-ness
 
 **[📦 Packages](https://github.com/GregRos?tab=repositories&q=topic:package)**<br>
 Tested, and documented; you can use these yourself.
@@ -19,7 +19,7 @@ No longer relevant.
 **[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic:sample)**<br>
 It's just some code that runs.
 
-Here is a breakdown by tech:
+## Tech Breakdown
 
 **Type**<br>
 [Library](https://github.com/GregRos?tab=repositories&q=topic:library+-topic:obsolete+-topic:incomplete+topic:package)  ∙  [Framework](https://github.com/GregRos?tab=repositories&q=topic:framework+-topic:obsolete+-topic:incomplete+topic:package)  ∙  [Tool](https://github.com/GregRos?tab=repositories&q=topic:tool)  ∙  [Hotkeys](https://github.com/GregRos?tab=repositories&q=topic:hotkeys)
