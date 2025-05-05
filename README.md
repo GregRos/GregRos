@@ -1,17 +1,50 @@
-I’m a software developer and architect with a wide range of skills and interests. I’ve done a lot, including client-side, server-side, devops, cloud architecture, and observability. I go wherever a task leads me, even if I have to dig through x86 assembly instructions to get there. 
+Hi! I’m Greg.
 
-My deeper passions are system architecture, type systems, and API design. To that end, I’ve built countless libraries – some popular, some not – for doing a wide variety of tasks, ranging from parsing to declaratively modifying compiled binaries. 
+I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself.
 
-Over the years, I’ve mastered several platforms down to the bedrock, creating tools and systems that rely on that knowledge to perform a wide variety of tasks. Currently, I’ve achieved this level of understanding with:
+This profile is a collection of these tools, assembled over 15 years or so. I like to divide the projects here into a few categories:
 
-- Client-side web technologies.
-- JavaScript engines in general.
-- The .NET runtime.
+- **[packages][category-packages]:** Working, tested, and documented; you can use these yourself.
+- **[personal][category-personal]:** Working but undocumented; mileage may vary.
+- **[incomplete][category-incomplete]:** Packages that didn’t get where I wanted them to.
+- **[obsolete][category-obsolete]:** I consider them irrelevant.
+- **[sample][category-sample]:** A bit of code in various languages.
 
-In my last position, I single-handedly built and designed a stateless, highly scalable system that ran, monitored, and controlled headless browsers. The system was capable of detecting and reporting all website activity, ranging from usage of JavaScript APIs to HTTP requests. This system was instrumental to the company's offering.
+You’ll find a pretty wide range of domains and technologies. Here are some major groupings:
 
-I further led development of a high-throughput data pipeline capable of digesting GB/s of graph data from a queue, encoding it, and writing it to a classical relational database, while doing research for a future move to graph databases. 
+[library][type-library] ┇ [framework][type-framework] ┇ [tool][type-tool] ┇ [hotkeys][type-hotkeys] ┇ [typescript][lang-typescript] ┇ [python][lang-python] ┇ [.net][lang-dotnet] ┇ [c#][lang-csharp] ┇ [f#][lang-fsharp] ┇ [rust][lang-rust] ┇ [scala][lang-scala] ┇ [bash][lang-bash] ┇ [kubernetes][tech-kubernetes] ┇ [vscode][tech-vscode] ┇ [parsing][domain-parsing] ┇ [modding][domain-modding] ┇ [printing][domain-print] ┇ [testing][domain-testing] ┇ [scripting][domain-scripting] ┇ [data binding][domain-data-binding]
 
-I am in a constant state of inspiration, my mind brimming with libraries I could write or systems I could build. I am always working on several things at once, with a dozen more things that are on hold but will eventually reach completion. It’s just the way my mind operates.
+----
 
-**This is a placeholder for something better.**
+Even if a project has been dormant for years, I'll often come back to it. The languages, technologies, and domains I work with tend to change based on stuff I'm doing in real life.
+
+- I used to mainly do C# and F#, so that's what most of my old stuff is. 
+- My newer stuff is either TypeScript or Python.
+
+I've written in over 30 languages in around 25 years of programming, so you'll find tons of other stuff here too.
+
+[packages][category-packages]: https://github.com/GregRos?tab=repositories&q=topic:packages
+[personal][category-personal]: https://github.com/GregRos?tab=repositories&q=topic:personal
+[incomplete][category-incomplete]: https://github.com/GregRos?tab=repositories&q=topic:incomplete
+[obsolete][category-obsolete]: https://github.com/GregRos?tab=repositories&q=topic:obsolete
+[sample][category-sample]: https://github.com/GregRos?tab=repositories&q=topic:sample
+[library][type-library]: https://github.com/GregRos?tab=repositories&q=topic:library
+[framework][type-framework]: https://github.com/GregRos?tab=repositories&q=topic:framework
+[tool][type-tool]: https://github.com/GregRos?tab=repositories&q=topic:tool
+[hotkeys][type-hotkeys]: https://github.com/GregRos?tab=repositories&q=topic:hotkeys
+[typescript][lang-typescript]: https://github.com/GregRos?tab=repositories&q=topic:typescript
+[python][lang-python]: https://github.com/GregRos?tab=repositories&q=topic:python
+[.net][lang-dotnet]: https://github.com/GregRos?tab=repositories&q=topic:dotnet
+[c#][lang-csharp]: https://github.com/GregRos?tab=repositories&q=topic:csharp
+[f#][lang-fsharp]: https://github.com/GregRos?tab=repositories&q=topic:fsharp
+[rust][lang-rust]: https://github.com/GregRos?tab=repositories&q=topic:rust
+[scala][lang-scala]: https://github.com/GregRos?tab=repositories&q=topic:scala
+[bash][lang-bash]: https://github.com/GregRos?tab=repositories&q=topic:bash
+[kubernetes][tech-kubernetes]: https://github.com/GregRos?tab=repositories&q=topic:kubernetes
+[vscode][tech-vscode]: https://github.com/GregRos?tab=repositories&q=topic:vscode
+[parsing][domain-parsing]: https://github.com/GregRos?tab=repositories&q=topic:parsing
+[modding][domain-modding]: https://github.com/GregRos?tab=repositories&q=topic:modding
+[printing][domain-print]: https://github.com/GregRos?tab=repositories&q=topic:print
+[testing][domain-testing]: https://github.com/GregRos?tab=repositories&q=topic:testing
+[scripting][domain-scripting]: https://github.com/GregRos?tab=repositories&q=topic:scripting
+[data binding][domain-data-binding]: https://github.com/GregRos?tab=repositories&q=topic:data-binding
