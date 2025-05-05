@@ -24,7 +24,7 @@ It's just some code that runs.
 [TypeScript][lang,typescript]  ✦  [Python][lang,python]  ✦  [C#][lang,csharp]  ✦  [F#][lang,fsharp]  ✦  [Rust][lang,rust]  ✦  [Scala][lang,scala]  ✦  [Kotlin][lang,kotlin]  ✦  [bash][lang,bash]  ✦  [bash][lang,ahk]
 
 **Tech**<br>
-[Kubernetes][tech,k8s]  ✦  [vscode][tech,vscode]  ✦  [.NET][lang,dotnet] 
+[Kubernetes][tech,k8s]  ✦  [vscode][tech,vscode]  ✦  [.NET][lang,dotnet]  ✦  [React][tech,react]  
 
 **Domain**<br>
 [Parsing][domain,parsing]  ✦  [Modding][domain,modding]  ✦  [Printing][domain,print]  ✦  [Testing][domain,testing]  ✦  [Scripting][domain,scripting]  ✦  [Data Binding][domain,data-binding]
