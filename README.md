@@ -19,18 +19,17 @@ No longer relevant.
 **[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic:sample)**
 It's just some code that runs.
 
-I've built stuff across a wide range of techs and domains:
+Here is a breakdown by tech:
 
-**Type**
+**Type**<br>
 [Library](https://github.com/GregRos?tab=repositories&q=topic:library+-topic:obsolete+-topic:incomplete+topic:package)  ∙  [Framework](https://github.com/GregRos?tab=repositories&q=topic:framework+-topic:obsolete+-topic:incomplete+topic:package)  ∙  [Tool](https://github.com/GregRos?tab=repositories&q=topic:tool)  ∙  [Hotkeys](https://github.com/GregRos?tab=repositories&q=topic:hotkeys)
 
-**Language**
+**Language**<br>
 [TypeScript](https://github.com/GregRos?tab=repositories&q=topic:typescript+-topic:obsolete+-topic:incomplete+topic:package)  ∙  [Python](https://github.com/GregRos?tab=repositories&q=topic:python)  ∙  [.NET](https://github.com/GregRos?tab=repositories&q=topic:dotnet)  ∙  [C#](https://github.com/GregRos?tab=repositories&q=topic:csharp)  ∙  [F#](https://github.com/GregRos?tab=repositories&q=topic:fsharp)  ∙  [Rust](https://github.com/GregRos?tab=repositories&q=topic:rust)  ∙  [Scala](https://github.com/GregRos?tab=repositories&q=topic:scala)  ∙  [bash](https://github.com/GregRos?tab=repositories&q=topic:bash)
 
-**Tech**
+**Tech**<br>
 [Kubernetes](https://github.com/GregRos?tab=repositories&q=topic:kubernetes+-topic:obsolete)  ∙  [vscode](https://github.com/GregRos?tab=repositories&q=topic:vscode+-topic:obsolete)
 
-**Domain**
+**Domain**<br>
 [Parsing](https://github.com/GregRos?tab=repositories&q=topic:parsing+-topic:obsolete)  ∙  [Modding](https://github.com/GregRos?tab=repositories&q=topic:modding+-topic:obsolete)  ∙  [Printing](https://github.com/GregRos?tab=repositories&q=topic:print+-topic:obsolete)  ∙  [Testing](https://github.com/GregRos?tab=repositories&q=topic:testing+-topic:obsolete)  ∙  [Scripting](https://github.com/GregRos?tab=repositories&q=topic:scripting+-topic:obsolete)  ∙  [Data Binding](https://github.com/GregRos?tab=repositories&q=topic:data-binding+-topic:obsolete)
 
-Even if a project has been dormant for years, I'll often come back to it.

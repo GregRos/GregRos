@@ -19,18 +19,17 @@ No longer relevant.
 **[🦠 Sample][category,sample]**
 It's just some code that runs.
 
-I've built stuff across a wide range of techs and domains:
+Here is a breakdown by tech:
 
-**Type**
+**Type**<br>
 [Library][type,library]  ∙  [Framework][type,framework]  ∙  [Tool][type,tool]  ∙  [Hotkeys][type,hotkeys]
 
-**Language**
+**Language**<br>
 [TypeScript][lang,typescript]  ∙  [Python][lang,python]  ∙  [.NET][lang,dotnet]  ∙  [C#][lang,csharp]  ∙  [F#][lang,fsharp]  ∙  [Rust][lang,rust]  ∙  [Scala][lang,scala]  ∙  [bash][lang,bash]
 
-**Tech**
+**Tech**<br>
 [Kubernetes][tech,k8s]  ∙  [vscode][tech,vscode]
 
-**Domain**
+**Domain**<br>
 [Parsing][domain,parsing]  ∙  [Modding][domain,modding]  ∙  [Printing][domain,print]  ∙  [Testing][domain,testing]  ∙  [Scripting][domain,scripting]  ∙  [Data Binding][domain,data-binding]
 
-Even if a project has been dormant for years, I'll often come back to it.
