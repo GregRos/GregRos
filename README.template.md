@@ -21,7 +21,7 @@ It's just some code that runs.
 [Library][type,library]  ✦  [Framework][type,framework]  ✦  [Tool][type,tool]  ✦  [Hotkeys][type,hotkeys]
 
 **Language**<br>
-[TypeScript][lang,typescript]  ✦  [Python][lang,python]  ✦  [C#][lang,csharp]  ✦  [F#][lang,fsharp]  ✦  [Rust][lang,rust]  ✦  [Scala][lang,scala]  ✦  [Kotlin][lang,kotlin]  ✦  [bash][lang,bash]  ✦  [bash][lang,ahk]
+[TypeScript][lang,typescript]  ✦  [Python][lang,python]  ✦  [C#][lang,csharp]  ✦  [F#][lang,fsharp]  ✦  [Rust][lang,rust]  ✦  [Scala][lang,scala]  ✦  [Kotlin][lang,kotlin]  ✦  [bash][lang,bash]  ✦  [ahk][lang,ahk]
 
 **Tech**<br>
 [Kubernetes][tech,k8s]  ✦  [vscode][tech,vscode]  ✦  [.NET][lang,dotnet]  ✦  [React][tech,react]  
