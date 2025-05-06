@@ -1,0 +1,46 @@
+{% macro search_url(topic_type, topic_name) -%}
+  https://github.com/GregRos?tab=repositories&q=topic%3Apackage{% if topic_type == 'category' and topic_name == 'incomplete' %}+topic%3Aincomplete{%- elif topic_type == 'category' %}+topic%3A{{ topic_name }}{%- elif topic_type == 'type' %}+topic%3A{{ topic_name }}{%- elif topic_type == 'lang' %}&language={{ topic_name | urlencode }}{%- elif topic_type == 'tech' or topic_type == 'domain' %}+topic%3A{{ topic_name }}{%- endif %}&type=&sort=
+{%- endmacro %}
+{% macro topic_links(topics) -%}
+  {%- for stuff in exported[topics].values() -%}
+    {{-topic_link(stuff)-}}
+    {%- if not loop.last %}  ✦  {% endif %}
+  {%- endfor %}
+{%- endmacro %}
+
+{% macro topic_link(t) -%}
+  [{{ t.to_display() }}]({{ t.to_url() }})
+{%- endmacro %}
+# Hi! I’m Greg.
+
+I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself. This profile is a collection of these tools, assembled over 15 years or so. 
+
+**[📦 Packages]({{ cat_package.to_url() }})**<br>
+Tested, and documented; you can use these yourself.
+
+**[🤗 Personal]({{ cat_personal.to_url() }})**<br>
+Working but undocumented; mileage may vary.
+
+**[🧩 Incomplete]({{ cat_incomplete.to_url() }})**<br>
+Not quite there yet.
+
+**[🗑️ Obsolete]({{ cat_obsolete.to_url() }})**<br>
+No longer relevant.
+
+**[🦠 Sample]({{ cat_sample.to_url() }})**<br>
+It's just some code that runs.
+
+**Type**<br>
+{{ topic_links("type") }}
+
+**Language**<br>
+{{ topic_links("lang") }}
+
+**Tech**<br>
+{{ topic_links("tech") }}
+
+**Domain**<br>
+{{ topic_links("dom") }}
+
+**Paradigm**<br>
+{{ topic_links("para") }}

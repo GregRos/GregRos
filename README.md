@@ -1,31 +1,37 @@
+
+
+
+
 # Hi! I’m Greg.
 
 I build things, and I love having the perfect tools to build things with. So if I need a tool that doesn’t exist, I’ll just make it myself. This profile is a collection of these tools, assembled over 15 years or so. 
 
-**[📦 Packages](https://github.com/GregRos?tab=repositories&q=topic:package)**<br>
+**[📦 Packages](https://github.com/GregRos?tab=repositories&q=topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)**<br>
 Tested, and documented; you can use these yourself.
 
-**[🤗 Personal](https://github.com/GregRos?tab=repositories&q=topic:personal)**<br>
+**[🤗 Personal](https://github.com/GregRos?tab=repositories&q=topic%3Apersonal)**<br>
 Working but undocumented; mileage may vary.
 
-**[🧩 Incomplete](https://github.com/GregRos?tab=repositories&q=topic:incomplete+topic:package+-topic:obsolete)**<br>
+**[🧩 Incomplete](https://github.com/GregRos?tab=repositories&q=topic%3Aincomplete+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)**<br>
 Not quite there yet.
 
-**[🗑️ Obsolete](https://github.com/GregRos?tab=repositories&q=topic:obsolete)**<br>
+**[🗑️ Obsolete](https://github.com/GregRos?tab=repositories&q=topic%3Aobsolete)**<br>
 No longer relevant.
 
-**[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic:sample)**<br>
+**[🦠 Sample](https://github.com/GregRos?tab=repositories&q=topic%3Asample)**<br>
 It's just some code that runs.
 
 **Type**<br>
-[Library](https://github.com/GregRos?tab=repositories&q=topic:library+-topic:obsolete+-topic:incomplete+topic:package)  ✦  [Framework](https://github.com/GregRos?tab=repositories&q=topic:framework+-topic:obsolete+-topic:incomplete+topic:package)  ✦  [Tool](https://github.com/GregRos?tab=repositories&q=topic:tool)  ✦  [Hotkeys](https://github.com/GregRos?tab=repositories&q=topic:hotkeys)
+[Library](https://github.com/GregRos?tab=repositories&q=topic%3Alibrary+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Framework](https://github.com/GregRos?tab=repositories&q=topic%3Aframework+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Tool](https://github.com/GregRos?tab=repositories&q=topic%3Atool+-topic%3Aobsolete)  ✦  [Hotkeys](https://github.com/GregRos?tab=repositories&q=topic%3Ahotkeys)
 
 **Language**<br>
-[TypeScript](https://github.com/GregRos?tab=repositories&q=topic:typescript+-topic:obsolete+-topic:incomplete+topic:package)  ✦  [Python](https://github.com/GregRos?tab=repositories&q=topic:python)  ✦  [C#](https://github.com/GregRos?tab=repositories&q=topic:csharp)  ✦  [F#](https://github.com/GregRos?tab=repositories&q=topic:fsharp)  ✦  [Rust](https://github.com/GregRos?tab=repositories&q=topic:rust)  ✦  [Scala](https://github.com/GregRos?tab=repositories&q=topic:scala)  ✦  [Kotlin](https://github.com/GregRos?tab=repositories&q=topic:kotlin)  ✦  [bash](https://github.com/GregRos?tab=repositories&q=topic:bash)  ✦  [ahk](https://github.com/GregRos?tab=repositories&q=topic:ahk)
+[Typescript](https://github.com/GregRos?tab=repositories&q=topic%3Atypescript+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Python](https://github.com/GregRos?tab=repositories&q=topic%3Apython+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Rust](https://github.com/GregRos?tab=repositories&q=topic%3Arust)  ✦  [C#](https://github.com/GregRos?tab=repositories&q=topic%3Acsharp)  ✦  [F#](https://github.com/GregRos?tab=repositories&q=topic%3Afsharp)  ✦  [Scala](https://github.com/GregRos?tab=repositories&q=topic%3Ascala)  ✦  [Kotlin](https://github.com/GregRos?tab=repositories&q=topic%3Akotlin)  ✦  [Bash](https://github.com/GregRos?tab=repositories&q=topic%3Abash)  ✦  [AutoHotKey](https://github.com/GregRos?tab=repositories&q=topic%3Aahk)
 
 **Tech**<br>
-[Kubernetes](https://github.com/GregRos?tab=repositories&q=topic:kubernetes+-topic:obsolete)  ✦  [vscode](https://github.com/GregRos?tab=repositories&q=topic:vscode+-topic:obsolete)  ✦  [.NET](https://github.com/GregRos?tab=repositories&q=topic:dotnet)  ✦  [React](https://github.com/GregRos?tab=repositories&q=topic:react+-topic:obsolete)  
+[Kubernetes](https://github.com/GregRos?tab=repositories&q=topic%3Akubernetes)  ✦  [VSCode](https://github.com/GregRos?tab=repositories&q=topic%3Avscode)  ✦  [.NET](https://github.com/GregRos?tab=repositories&q=topic%3Adotnet)  ✦  [React](https://github.com/GregRos?tab=repositories&q=topic%3Areact)  ✦  [Unicode](https://github.com/GregRos?tab=repositories&q=topic%3Aunicode)  ✦  [DOM](https://github.com/GregRos?tab=repositories&q=topic%3Adom)
 
 **Domain**<br>
-[Parsing](https://github.com/GregRos?tab=repositories&q=topic:parsing+-topic:obsolete)  ✦  [Modding](https://github.com/GregRos?tab=repositories&q=topic:modding+-topic:obsolete)  ✦  [Printing](https://github.com/GregRos?tab=repositories&q=topic:print+-topic:obsolete)  ✦  [Testing](https://github.com/GregRos?tab=repositories&q=topic:testing+-topic:obsolete)  ✦  [Scripting](https://github.com/GregRos?tab=repositories&q=topic:scripting+-topic:obsolete)  ✦  [Data Binding](https://github.com/GregRos?tab=repositories&q=topic:data-binding+-topic:obsolete)
+[Parsing](https://github.com/GregRos?tab=repositories&q=topic%3Aparsing+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Modding](https://github.com/GregRos?tab=repositories&q=topic%3Amodding+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Printing](https://github.com/GregRos?tab=repositories&q=topic%3Aprint+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Testing](https://github.com/GregRos?tab=repositories&q=topic%3Atesting+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Scripting](https://github.com/GregRos?tab=repositories&q=topic%3Ascripting+topic%3Apackage+-topic%3Aincomplete+-topic%3Aobsolete)  ✦  [Binding](https://github.com/GregRos?tab=repositories&q=topic%3Abinding)  ✦  [RPC](https://github.com/GregRos?tab=repositories&q=topic%3Arpc)
 
+**Paradigm**<br>
+[Functional](https://github.com/GregRos?tab=repositories&q=topic%3Afunctional-programming)  ✦  [Reactive](https://github.com/GregRos?tab=repositories&q=topic%3Areactive-programming)  ✦  [Aspect-Oriented](https://github.com/GregRos?tab=repositories&q=topic%3Aaspect-oriented-programming)
