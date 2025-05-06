@@ -33,9 +33,11 @@ dom_testing = Topic("testing", display="Testing") + cat_package
 dom_scripting = Topic("scripting") + cat_package
 dom_binding = Topic("binding")
 dom_rpc = Topic("rpc", display="RPC")
-para_functional = Topic("functional-programming", display="Functional")
-para_reactive = Topic("reactive-programming", display="Reactive")
-para_aspect = Topic("aspect-oriented-programming", display="Aspect-Oriented")
+para_functional = Topic("functional-programming", display="Functional") - cat_obsolete
+para_reactive = Topic("reactive-programming", display="Reactive") - cat_obsolete
+para_aspect = (
+    Topic("aspect-oriented-programming", display="Aspect-Oriented") - cat_obsolete
+)
 
 topic_locals = {
     name: topic
