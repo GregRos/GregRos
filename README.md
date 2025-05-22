@@ -67,7 +67,7 @@ Here are some random opinions about tech things I've used. Why is this here? Who
 
 - **Go:** It used to not have generics so I stayed away. Now it has them, so yay! I’ll probably end up using it one day.
 
-- **PowerShell:** Terrible as a shell, shitty as a language. Just plain bad.
+- **PowerShell:** Terrible as a shell, worse as a language. Just plain bad.
 
 - **Rust:** Beautiful language; but hard to justify in most contexts.
 
